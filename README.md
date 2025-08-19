@@ -1,11 +1,14 @@
 # Tools
-* create-react-app cli
-* React MDL material design
-* React Router v4
+- create-react-app (CRA)
+- React MDL (Material Design Lite)
+- React Router v4
 
-# Start App
-Clone repo, install, run:
-```git
-npm install
-npm start 
-```
+# Prerequisites
+- Node.js 18+ and npm 9+
+
+# Quick start
+```bash
+git clone https://github.com/WindYari/portifolio
+cd portifolio
+npm ci          # or: npm install
+npm start
